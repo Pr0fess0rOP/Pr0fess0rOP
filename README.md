@@ -73,8 +73,8 @@ Database and AI Engineer at **CCS Global** building **conversational AI**, **age
 
 ## 🔗 Connect
 
-- 🌐 **Portfolio:** [harivilasp.github.io](https://pr0fess0rop.github.io/)
-- 📬 **Email:** [harivpanjwani@gmail.com](mailto:pathikcodes@gmail.com)
+- 🌐 **Portfolio:** [pr0fess0rop.github.io](https://pr0fess0rop.github.io/)
+- 📬 **Email:** [pathikcodes@gmail.com](mailto:pathikcodes@gmail.com)
 
 ---
 
