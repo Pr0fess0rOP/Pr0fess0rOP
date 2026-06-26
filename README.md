@@ -1,11 +1,10 @@
 <div align="center">
 
-# Hey, I'm [Hari](https://harivilasp.github.io/) 👋
+# Hey, I'm [Pathik Viramgama](https://pr0fess0rop.github.io/) 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harivilasp/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harivpanjwani@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://harivilasp.github.io/)
-![Profile Views](https://komarev.com/ghpvc/?username=harivilasp&style=for-the-badge&color=blueviolet)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pathikcodes@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://pr0fess0rop.github.io/)
+![Profile Views](https://komarev.com/ghpvc/?username=pr0fess0rop&style=for-the-badge&color=blueviolet)
 
 </div>
 
@@ -13,7 +12,7 @@
 
 ## 🤖 About Me
 
-Software Engineer at **Amazon AWS** building **conversational AI**, **agentic systems**, and the cloud infrastructure that powers intelligent applications at scale.
+Database and AI Engineer at **CCS Global** building **conversational AI**, **agentic systems**, and the cloud infrastructure that powers intelligent applications at scale.
 
 - 🧠 **Conversational & Agentic AI** — LLM-powered agents, multi-turn dialogue systems, tool-using pipelines on AWS
 - ☁️ **AWS Infrastructure** — fault-tolerant backends for real-time AI workloads (Bedrock, Lambda, SQS, DynamoDB, ECS)
@@ -74,9 +73,8 @@ Software Engineer at **Amazon AWS** building **conversational AI**, **agentic sy
 
 ## 🔗 Connect
 
-- 🌐 **Portfolio:** [harivilasp.github.io](https://harivilasp.github.io/)
-- 💼 **LinkedIn:** [linkedin.com/in/harivilasp](https://www.linkedin.com/in/harivilasp/)
-- 📬 **Email:** [harivpanjwani@gmail.com](mailto:harivpanjwani@gmail.com)
+- 🌐 **Portfolio:** [harivilasp.github.io](https://pr0fess0rop.github.io/)
+- 📬 **Email:** [harivpanjwani@gmail.com](mailto:pathikcodes@gmail.com)
 
 ---
 
