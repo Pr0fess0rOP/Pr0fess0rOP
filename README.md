@@ -56,16 +56,16 @@ Database and AI Engineer at **CCS Global** building **conversational AI**, **age
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
----
+--- 
 
 ## 📌 Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [🎥 Video Sentiment Analysis Model](https://github.com/Pr0fess0rOP/video-sentiment-project) | Multimodel Sentiment Analysis, Deployed on SageMaker along with an SaaS next.js website **54 stars** | Python |
-| [🔍 Text Search Engine](https://github.com/harivilasp/Text-Search-Engine) | Full-stack search engine: web crawler, PageRank, BM25 ranking, Elasticsearch backend, React UI | Python · Elasticsearch · React · MapReduce |
+| [🎥 SaaS Multi-Model Sentiment Analysis](https://github.com/Pr0fess0rOP/video-sentiment-project) | Multimodel Sentiment Analysis, Deployed on SageMaker along with an SaaS next.js website **54 stars** | Python · Pytorch · BERT · openai · resnet3d · tensorboard · AWS (IAM, S3, EC2, SageMaker, CloudWatch) · Next.js · Typescript · Tailwind CSS · SqLite · node.js|
+| [🔍 Reverse Image Search Engine](https://github.com/Pr0fess0rOP/reverse-image-search) | Reverse Image Search Engine using ML and CV | Python · Machine Learning · opencv · FastAPI · MongoDB · CLIP · YOLO · ResNet50 |
 | [⚡ Distributed KV Store](https://github.com/harivilasp/Distributed-Replicated-Key-Value-Store) | Fault-tolerant, multi-threaded distributed key-value store with TCP communication | C++ |
-| [📖 LLM Story Generation](https://github.com/harivilasp/LLM-Story-Generation) | Fine-tuned language models for long-form narrative generation | Python · HuggingFace · Jupyter |
+| [📖 Scratch Coding](https://github.com/Pr0fess0rOP/ML-Scratch-Coding) | Implementing AI algorithms from scratch using three libraries Numpy, Pandas and Matplotlib | Python · Jupiter Notebooks · Numpy · Pandas · Matplotlib |
 | [🏦 Banking Application](https://github.com/harivilasp/Banking-Application-Software) | Secure banking app with role-based auth, transactions, email notifications. **13 forks** | Java · Spring Boot · MySQL |
 | [📈 Quant Investment Platform](https://github.com/harivilasp/Quantitative-Investment-Strategies-Platform) | Portfolio management with real-time stock data and strategy backtesting | Java |
 
