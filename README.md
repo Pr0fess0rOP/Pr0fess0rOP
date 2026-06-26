@@ -62,7 +62,7 @@ Database and AI Engineer at **CCS Global** building **conversational AI**, **age
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [🎥 Interview Video Analysis](https://github.com/harivilasp/Interview-Video-Analysis) | Automated video interview platform — emotion detection, speech scoring, resume-JD matching. **54 stars** | Python · React · TensorFlow · Flask |
+| [🎥 Video Sentiment Analysis Model](https://github.com/Pr0fess0rOP/video-sentiment-project) | Multimodel Sentiment Analysis, Deployed on SageMaker along with an SaaS next.js website **54 stars** | Python |
 | [🔍 Text Search Engine](https://github.com/harivilasp/Text-Search-Engine) | Full-stack search engine: web crawler, PageRank, BM25 ranking, Elasticsearch backend, React UI | Python · Elasticsearch · React · MapReduce |
 | [⚡ Distributed KV Store](https://github.com/harivilasp/Distributed-Replicated-Key-Value-Store) | Fault-tolerant, multi-threaded distributed key-value store with TCP communication | C++ |
 | [📖 LLM Story Generation](https://github.com/harivilasp/LLM-Story-Generation) | Fine-tuned language models for long-form narrative generation | Python · HuggingFace · Jupyter |
