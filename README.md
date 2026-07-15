@@ -47,35 +47,21 @@ Database and AI Engineer at **CCS Global** building **conversational AI**, **age
 | :--- | :--- | :--- |
 | ![Vite](https://skills.syvixor.com/api/icons?i=vite) ![Postman](https://skills.syvixor.com/api/icons?i=postman) ![LaTeX](https://skills.syvixor.com/api/icons?i=latex) | ![AWS](https://skills.syvixor.com/api/icons?i=aws) ![Azure](https://skills.syvixor.com/api/icons?i=azure) ![GCP](https://skills.syvixor.com/api/icons?i=gcp) | ![Docker](https://skills.syvixor.com/api/icons?i=docker) ![Kubernetes](https://skills.syvixor.com/api/icons?i=kubernetes) ![Vercel](https://skills.syvixor.com/api/icons?i=vercel) ![Cloudflare](https://skills.syvixor.com/api/icons?i=cloudflare) |
 
-| Build, API & Development Tools | Cloud Platforms | DevOps, Containers & Deployment |
+| Relational Databases | NoSQL Databases & Caching | Backend-as-a-Service & Data Access |
 | :--- | :--- | :--- |
-| <div align="center">
-![PostgreSQL](https://skills.syvixor.com/api/icons?i=postgresql)
-![MySQL](https://skills.syvixor.com/api/icons?i=mysql)
-![SQLite](https://skills.syvixor.com/api/icons?i=sqlite)
-![SQL Server](https://skills.syvixor.com/api/icons?i=sqlserver)
-</div> | ![AWS](https://skills.syvixor.com/api/icons?i=aws) ![Azure](https://skills.syvixor.com/api/icons?i=azure) ![GCP](https://skills.syvixor.com/api/icons?i=gcp) | ![Docker](https://skills.syvixor.com/api/icons?i=docker) ![Kubernetes](https://skills.syvixor.com/api/icons?i=kubernetes) ![Vercel](https://skills.syvixor.com/api/icons?i=vercel) ![Cloudflare](https://skills.syvixor.com/api/icons?i=cloudflare) |
+| ![PostgreSQL](https://skills.syvixor.com/api/icons?i=postgresql) ![MySQL](https://skills.syvixor.com/api/icons?i=mysql) ![SQLite](https://skills.syvixor.com/api/icons?i=sqlite) ![SQL Server](https://skills.syvixor.com/api/icons?i=sqlserver) | ![MongoDB](https://skills.syvixor.com/api/icons?i=mongodb) ![Redis](https://skills.syvixor.com/api/icons?i=redis) | ![Firebase](https://skills.syvixor.com/api/icons?i=firebase) ![Supabase](https://skills.syvixor.com/api/icons?i=supabase) ![Prisma](https://skills.syvixor.com/api/icons?i=prisma) |
 
 
 
 </div>
-### Relational Databases
-<div align="center">
-![PostgreSQL](https://skills.syvixor.com/api/icons?i=postgresql)
-![MySQL](https://skills.syvixor.com/api/icons?i=mysql)
-![SQLite](https://skills.syvixor.com/api/icons?i=sqlite)
-![SQL Server](https://skills.syvixor.com/api/icons?i=sqlserver)
-</div>
-### NoSQL Databases & Caching
 
-![MongoDB](https://skills.syvixor.com/api/icons?i=mongodb)
-![Redis](https://skills.syvixor.com/api/icons?i=redis)
+### 
 
-### Backend-as-a-Service & Data Access
 
-![Firebase](https://skills.syvixor.com/api/icons?i=firebase)
-![Supabase](https://skills.syvixor.com/api/icons?i=supabase)
-![Prisma](https://skills.syvixor.com/api/icons?i=prisma)
+
+### 
+
+
 
 ### Data Engineering & Analytics Platforms
 
