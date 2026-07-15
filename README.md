@@ -7,12 +7,12 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=pr0fess0rop&style=for-the-badge&color=blueviolet)
 
 </div>
-<!-- <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/light.svg">
   <img src="assets/light.svg" alt="Pathik Viramgama developer profile banner">
-</picture> -->
----
+</picture>
+
 
 ## 🤖 About Me
 
