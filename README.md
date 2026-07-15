@@ -35,31 +35,36 @@ Database and AI Engineer at **CCS Global** building **conversational AI**, **age
 | :---: | :---: |
 | ![Python](https://skills.syvixor.com/api/icons?i=python) ![C++](https://skills.syvixor.com/api/icons?i=cpp) ![JavaScript](https://skills.syvixor.com/api/icons?i=js) ![TypeScript](https://skills.syvixor.com/api/icons?i=ts) ![Kotlin](https://skills.syvixor.com/api/icons?i=kotlin) | ![HTML](https://skills.syvixor.com/api/icons?i=html)![CSS](https://skills.syvixor.com/api/icons?i=css) ![Sass](https://skills.syvixor.com/api/icons?i=sass) ![Bootstrap](https://skills.syvixor.com/api/icons?i=bootstrap) ![Tailwind CSS](https://skills.syvixor.com/api/icons?i=tailwindcss)|
 
-| AI, Machine Learning & Computer Vision | Web Technologies & Styling |
-| :---: | :---: |
-| ![LangChain](https://skills.syvixor.com/api/icons?i=langchain) ![PyTorch](https://skills.syvixor.com/api/icons?i=pytorch) ![TensorFlow](https://skills.syvixor.com/api/icons?i=tensorflow) ![Keras](https://skills.syvixor.com/api/icons?i=keras) ![scikit-learn](https://skills.syvixor.com/api/icons?i=scikitlearn) ![OpenCV](https://skills.syvixor.com/api/icons?i=opencv) | ![HTML](https://skills.syvixor.com/api/icons?i=html) ![CSS](https://skills.syvixor.com/api/icons?i=css) ![Sass](https://skills.syvixor.com/api/icons?i=sass) ![Bootstrap](https://skills.syvixor.com/api/icons?i=bootstrap) ![Tailwind CSS](https://skills.syvixor.com/api/icons?i=tailwindcss)|
+| AI, Machine Learning & Computer Vision |
+| :---: |
+| ![LangChain](https://skills.syvixor.com/api/icons?i=langchain) ![PyTorch](https://skills.syvixor.com/api/icons?i=pytorch) ![TensorFlow](https://skills.syvixor.com/api/icons?i=tensorflow) ![Keras](https://skills.syvixor.com/api/icons?i=keras) ![scikit-learn](https://skills.syvixor.com/api/icons?i=scikitlearn) ![OpenCV](https://skills.syvixor.com/api/icons?i=opencv) |
 
 | Backend Frameworks & Runtimes | Frontend & Application Development |
 | :---: | :---: |
 | ![Django](https://skills.syvixor.com/api/icons?i=django) ![Flask](https://skills.syvixor.com/api/icons?i=flask) ![FastAPI](https://skills.syvixor.com/api/icons?i=fastapi) ![Node.js](https://skills.syvixor.com/api/icons?i=nodejs) | ![React](https://skills.syvixor.com/api/icons?i=react) ![Angular](https://skills.syvixor.com/api/icons?i=angular) ![Next.js](https://skills.syvixor.com/api/icons?i=nextjs) ![Flutter](https://skills.syvixor.com/api/icons?i=flutter) |
 
-| Build, API & Development Tools | Cloud Platforms | DevOps, Containers & Deployment |
-| :---: | :---: | :---: |
-| ![Vite](https://skills.syvixor.com/api/icons?i=vite) ![Postman](https://skills.syvixor.com/api/icons?i=postman) ![LaTeX](https://skills.syvixor.com/api/icons?i=latex) | ![AWS](https://skills.syvixor.com/api/icons?i=aws) ![Azure](https://skills.syvixor.com/api/icons?i=azure) ![GCP](https://skills.syvixor.com/api/icons?i=gcp) | ![Docker](https://skills.syvixor.com/api/icons?i=docker) ![Kubernetes](https://skills.syvixor.com/api/icons?i=kubernetes) ![Vercel](https://skills.syvixor.com/api/icons?i=vercel) ![Cloudflare](https://skills.syvixor.com/api/icons?i=cloudflare) |
+| Build, API & Development Tools | Backend-as-a-Service & Data Access |
+| :---: | :---: |
+| ![Vite](https://skills.syvixor.com/api/icons?i=vite) ![Postman](https://skills.syvixor.com/api/icons?i=postman) ![LaTeX](https://skills.syvixor.com/api/icons?i=latex) | ![Firebase](https://skills.syvixor.com/api/icons?i=firebase) ![Supabase](https://skills.syvixor.com/api/icons?i=supabase) ![Prisma](https://skills.syvixor.com/api/icons?i=prisma) |
 
-| Relational Databases | NoSQL Databases & Caching | Backend-as-a-Service & Data Access |
-| :---: | :---: | :---: |
-| ![PostgreSQL](https://skills.syvixor.com/api/icons?i=postgresql) ![MySQL](https://skills.syvixor.com/api/icons?i=mysql) ![SQLite](https://skills.syvixor.com/api/icons?i=sqlite) ![SQL Server](https://skills.syvixor.com/api/icons?i=sqlserver) | ![MongoDB](https://skills.syvixor.com/api/icons?i=mongodb) ![Redis](https://skills.syvixor.com/api/icons?i=redis) | ![Firebase](https://skills.syvixor.com/api/icons?i=firebase) ![Supabase](https://skills.syvixor.com/api/icons?i=supabase) ![Prisma](https://skills.syvixor.com/api/icons?i=prisma) |
+| Cloud Platforms | DevOps, Containers & Deployment |
+| :---: | :---: |
+| ![AWS](https://skills.syvixor.com/api/icons?i=aws) ![Azure](https://skills.syvixor.com/api/icons?i=azure) ![GCP](https://skills.syvixor.com/api/icons?i=gcp) | ![Docker](https://skills.syvixor.com/api/icons?i=docker) ![Kubernetes](https://skills.syvixor.com/api/icons?i=kubernetes) ![Vercel](https://skills.syvixor.com/api/icons?i=vercel) ![Cloudflare](https://skills.syvixor.com/api/icons?i=cloudflare) |
+
+| Relational Databases | NoSQL Databases & Caching |
+| :---: | :---: |
+| ![PostgreSQL](https://skills.syvixor.com/api/icons?i=postgresql) ![MySQL](https://skills.syvixor.com/api/icons?i=mysql) ![SQLite](https://skills.syvixor.com/api/icons?i=sqlite) ![SQL Server](https://skills.syvixor.com/api/icons?i=sqlserver) | ![MongoDB](https://skills.syvixor.com/api/icons?i=mongodb) ![Redis](https://skills.syvixor.com/api/icons?i=redis) | 
 
 | Data Engineering & Analytics Platforms | Business Intelligence & Visualization |
 | :---: | :---: |
 | ![Databricks](https://skills.syvixor.com/api/icons?i=databricks) ![Snowflake](https://skills.syvixor.com/api/icons?i=snowflake) ![Azure Synapse Analytics](https://skills.syvixor.com/api/icons?i=azure-synapse-analytics) ![Apache Airflow](https://skills.syvixor.com/api/icons?i=airflow) | ![Power BI](https://skills.syvixor.com/api/icons?i=powerbi) ![Tableau](https://skills.syvixor.com/api/icons?i=tableau) |
 
+| Game Development |
+| :---: | 
+| ![Unity](https://skills.syvixor.com/api/icons?i=unity) |
+
+
 </div>
-
-### Game Development
-
-![Unity](https://skills.syvixor.com/api/icons?i=unity)
 --- 
  
 ## 📌 Featured Projects
