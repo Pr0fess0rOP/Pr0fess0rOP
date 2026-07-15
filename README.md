@@ -33,7 +33,7 @@ Database and AI Engineer at **CCS Global** building **conversational AI**, **age
 
 | Programming Languages | Web Technologies & Styling |
 | :---: | :---: |
-| ![Python](https://skills.syvixor.com/api/icons?i=python) ![C++](https://skills.syvixor.com/api/icons?i=cpp) ![JavaScript](https://skills.syvixor.com/api/icons?i=js) ![TypeScript](https://skills.syvixor.com/api/icons?i=ts) ![Kotlin](https://skills.syvixor.com/api/icons?i=kotlin) | ![HTML](https://skills.syvixor.com/api/icons?i=html)![CSS](https://skills.syvixor.com/api/icons?i=css) ![Sass](https://skills.syvixor.com/api/icons?i=sass) ![Bootstrap](https://skills.syvixor.com/api/icons?i=bootstrap) ![Tailwind CSS](https://skills.syvixor.com/api/icons?i=tailwindcss)|
+| ![Python](https://skills.syvixor.com/api/icons?i=python) ![C++](https://skills.syvixor.com/api/icons?i=cpp) ![JavaScript](https://skills.syvixor.com/api/icons?i=js) ![TypeScript](https://skills.syvixor.com/api/icons?i=ts) ![Kotlin](https://skills.syvixor.com/api/icons?i=kotlin) | ![HTML](https://skills.syvixor.com/api/icons?i=html) ![CSS](https://skills.syvixor.com/api/icons?i=css) ![Sass](https://skills.syvixor.com/api/icons?i=sass) ![Bootstrap](https://skills.syvixor.com/api/icons?i=bootstrap) ![Tailwind CSS](https://skills.syvixor.com/api/icons?i=tailwindcss)|
 
 | AI, Machine Learning & Computer Vision |
 | :---: |
@@ -65,7 +65,6 @@ Database and AI Engineer at **CCS Global** building **conversational AI**, **age
 
 
 </div>
---- 
  
 ## 📌 Featured Projects
 
