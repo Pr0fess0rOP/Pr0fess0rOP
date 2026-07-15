@@ -14,10 +14,7 @@
 </picture>
 
 </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile.png">
-  <img src="assets/profile.png" alt="Pathik Viramgama developer profile banner">
-</picture>
+
 
 
 ## 🤖 About Me
@@ -30,7 +27,16 @@ Database and AI Engineer at **CCS Global** building **conversational AI**, **age
 - ⚙️ **Distributed Systems** — high-throughput microservices, event-driven architectures, low-latency pipelines
 - 🌱 **Always building** — LangChain, LangGraph, OpenAI APIs, AWS Bedrock, and emerging agentic frameworks
 
----
+<table>
+  <tr>
+    <td>
+      ![Python](https://skills.syvixor.com/api/icons?i=python)![C++](https://skills.syvixor.com/api/icons?i=cpp)![JavaScript](https://skills.syvixor.com/api/icons?i=js)![TypeScript](https://skills.syvixor.com/api/icons?i=ts)![Kotlin](https://skills.syvixor.com/api/icons?i=kotlin) 
+    </td>
+    <td>
+      ![HTML](https://skills.syvixor.com/api/icons?i=html)![CSS](https://skills.syvixor.com/api/icons?i=css)![Sass](https://skills.syvixor.com/api/icons?i=sass)![Bootstrap](https://skills.syvixor.com/api/icons?i=bootstrap)![Tailwind CSS](https://skills.syvixor.com/api/icons?i=tailwindcss)
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Tech Stack
 
