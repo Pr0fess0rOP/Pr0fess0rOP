@@ -13,6 +13,12 @@
   <img src="assets/light.svg" alt="Pathik Viramgama developer profile banner">
 </picture>
 
+</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile.png">
+  <img src="assets/profile.png" alt="Pathik Viramgama developer profile banner">
+</picture>
+
 
 ## 🤖 About Me
 
