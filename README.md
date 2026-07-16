@@ -57,7 +57,7 @@ Database and AI Engineer at **CCS Global** building **conversational AI**, **age
 
 | Data Engineering & Analytics Platforms | Business Intelligence & Visualization |
 | :---: | :---: |
-| ![Databricks](https://skills.syvixor.com/api/icons?i=databricks) ![Snowflake](https://skills.syvixor.com/api/icons?i=snowflake) ![Azure Synapse Analytics](https://skills.syvixor.com/api/icons?i=azure-synapse-analytics) ![Apache Airflow](https://skills.syvixor.com/api/icons?i=airflow) | ![Power BI](https://skills.syvixor.com/api/icons?i=powerbi) ![Tableau](https://skills.syvixor.com/api/icons?i=tableau) |
+| ![Databricks](https://skills.syvixor.com/api/icons?i=databricks) ![Snowflake](https://skills.syvixor.com/api/icons?i=snowflake) ![Azure Synapse Analytics](https://skills.syvixor.com/api/icons?i=synapse) ![Apache Airflow](https://skills.syvixor.com/api/icons?i=airflow) | ![Power BI](https://skills.syvixor.com/api/icons?i=powerbi) ![Tableau](https://skills.syvixor.com/api/icons?i=tableau) |
 
 | Game Development |
 | :---: | 
