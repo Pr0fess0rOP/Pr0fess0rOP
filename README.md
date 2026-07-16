@@ -70,7 +70,7 @@ Database and AI Engineer at **CCS Global** building **conversational AI**, **age
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [🎥 SaaS Multi-Model Sentiment Analysis](https://github.com/Pr0fess0rOP/video-sentiment-project) | Multimodel Sentiment Analysis, Deployed on SageMaker along with an SaaS next.js website **54 stars** | Python · Pytorch · BERT · openai · resnet3d · tensorboard · AWS (IAM, S3, EC2, SageMaker, CloudWatch) · Next.js · Typescript · Tailwind CSS · SqLite · node.js|
+| [🎥 SaaS Multi-Model Sentiment Analysis](https://github.com/Pr0fess0rOP/video-sentiment-project) | Multimodel Sentiment Analysis, Deployed on SageMaker along with an SaaS next.js website | Python · Pytorch · BERT · openai · resnet3d · tensorboard · AWS (IAM, S3, EC2, SageMaker, CloudWatch) · Next.js · Typescript · Tailwind CSS · SqLite · node.js|
 | [🔍 Reverse Image Search Engine](https://github.com/Pr0fess0rOP/reverse-image-search) | Reverse Image Search Engine using ML and CV | Python · Machine Learning · opencv · FastAPI · MongoDB · CLIP · YOLO · ResNet50 |
 | [⚡ LLM Router](https://github.com/Pr0fess0rOP/llm-router) | OpenAI compatible LLM router that lets user connect multiple provider API keys and route requests through single endpoint, handles failure across every provider and monitors usage with detailed logs | React · Node · OpenAI · Clerk · Redis Upstash · Vercel · Encryption |
 | [📖 Scratch Coding](https://github.com/Pr0fess0rOP/ML-Scratch-Coding) | Implementing AI algorithms from scratch using three libraries Numpy, Pandas and Matplotlib | Python · Jupiter Notebooks · Numpy · Pandas · Matplotlib |
