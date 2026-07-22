@@ -18,8 +18,8 @@ text, tspan {white-space: pre;}
 <rect width="1200px" height="700px" fill="#161b22" rx="25"/>
 <text x="5" y="30" fill="#c9d1d9" class="ascii" xml:space="">
   <tspan x="5" y="28"></tspan>
-  <tspan x="5" y="48">                           *..**+=.</tspan>
-  <tspan x="5" y="66">                         *#%%%%%@%%#.</tspan>
+  <tspan x="5" y="48">                          *..**+=.</tspan>
+  <tspan x="5" y="66">                        *#%%%%%@%%#.</tspan>
   <tspan x="5" y="84">                       **..==+*##%@@@+</tspan>
   <tspan x="5" y="102">                      #.=.===++***%@%.</tspan>
   <tspan x="5" y="120">                     #***===*###*+*#%*</tspan>
