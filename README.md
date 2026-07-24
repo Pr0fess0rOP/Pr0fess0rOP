@@ -41,7 +41,7 @@ Database and AI Engineer at **CCS Global** building **conversational AI**, **age
 
 | Backend Frameworks & Runtimes | Frontend & Application Development |
 | :---: | :---: |
-| ![Django](https://skills.syvixor.com/api/icons?i=django) ![Flask](https://skills.syvixor.com/api/icons?i=flask) ![FastAPI](https://skills.syvixor.com/api/icons?i=fastapi) ![Node.js](https://skills.syvixor.com/api/icons?i=nodejs) | ![React](https://skills.syvixor.com/api/icons?i=react) ![Angular](https://skills.syvixor.com/api/icons?i=angular) ![Next.js](https://skills.syvixor.com/api/icons?i=nextjs) ![Flutter](https://skills.syvixor.com/api/icons?i=flutter) |
+| ![Django](https://skills.syvixor.com/api/icons?i=django) ![Flask](https://skills.syvixor.com/api/icons?i=flask) ![FastAPI](https://skills.syvixor.com/api/icons?i=fastapi) ![Node.js](https://skills.syvixor.com/api/icons?i=nodejs) ![LLM Router](https://skills.syvixor.com/api/icons?i=llmrouter)| ![React](https://skills.syvixor.com/api/icons?i=react) ![Angular](https://skills.syvixor.com/api/icons?i=angular) ![Next.js](https://skills.syvixor.com/api/icons?i=nextjs) ![Flutter](https://skills.syvixor.com/api/icons?i=flutter) |
 
 | Build, API & Development Tools | Backend-as-a-Service & Data Access |
 | :---: | :---: |
