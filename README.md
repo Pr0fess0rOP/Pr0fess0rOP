@@ -61,7 +61,7 @@ Database and AI Engineer at **CCS Global** building **conversational AI**, **age
 
 | Game Development |
 | :---: | 
-| ![Unity](https://skills.syvixor.com/api/icons?i=unity) |
+| ![Unity](https://skills.syvixor.com/api/icons?i=unity) ![Flame Engine](https://skills.syvixor.com/api/icons?i=flameengine) |
 
 
 </div>
