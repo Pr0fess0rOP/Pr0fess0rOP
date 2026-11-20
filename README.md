@@ -1,9 +1,9 @@
 <div align="center">
 
-# Hey, I'm [Pathik Viramgama](https://pr0fess0rop.github.io/) 👋
+# Hey, I'm [Pathik Viramgama](https://pr0fess0rop.github.io/portfolio_front) 👋
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pathikcodes@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://pr0fess0rop.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://pr0fess0rop.github.io/portfolio_front)
 ![Profile Views](https://komarev.com/ghpvc/?username=pr0fess0rop&style=for-the-badge&color=blueviolet)
 
 </div>
@@ -80,7 +80,7 @@ Database and AI Engineer at **CCS Global** building **conversational AI**, **age
 
 ## 🔗 Connect
 
-- 🌐 **Portfolio:** [pr0fess0rop.github.io](https://pr0fess0rop.github.io/)
+- 🌐 **Portfolio:** [pr0fess0rop.github.io](https://pr0fess0rop.github.io/portfolio_front)
 - 📬 **Email:** [pathikcodes@gmail.com](mailto:pathikcodes@gmail.com)
 
 ---
